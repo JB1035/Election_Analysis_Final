@@ -38,7 +38,7 @@ The analysis of the election show that:
 The python script used for this audit can be modifyed for any future elections by updating the dependencies. Examples below.
 
 - Example 1: Update the import path with new dependency files:
-![This is an image](images/variable_paths.png)
+![This is an image](Images/variable_paths.png)
 - Example 2: For a national election, switch out county named variables, and insert the word state:
-![This is an image](images/county_variables.png)
+![This is an image](Images/county_variables.png)
 
